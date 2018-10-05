@@ -1,0 +1,1 @@
+﻿Sık kullanılan bazı kelimeler, kullanıcı adları ve mailler gibi görece uzun metinleri tam da kendi yazılışını anımsatan şekilde kısayollarla hızlıca giriş yapmak içindir.
